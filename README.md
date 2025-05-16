@@ -38,7 +38,7 @@ Este proyecto es un juego de exploración desarrollado en **Python** 🎮, donde
 ## 🎥 Demostración
 
 📺 Mira el funcionamiento del juego en este video incluido:  
-🎬 `video_juego.mp4`
+🎬 `proyecto-python-1.mp4`
 
 ---
 

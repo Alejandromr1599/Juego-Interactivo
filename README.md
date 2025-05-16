@@ -48,7 +48,7 @@ Este proyecto es un juego de exploración desarrollado en **Python** 🎮, donde
 - **Pruebas de Caja Negra**: Validación de entradas y salidas esperadas.
 - **Pruebas de Caja Blanca**: Cobertura de caminos y estructuras de control.
 
-📄 Más detalles en: `proyectofinal.pdf`
+📄 Más detalles en: `proyectofinalPython.pdf`
 
 ---
 
